@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>form_Nama lengkap Email  Email yang anda gu_2dfe2f</name>
+   <tag></tag>
+   <elementGuidId>01645e58-f12c-4d6d-8f79-14a98f746b0c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>form</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/div/form</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nama lengkap *Email * Email yang anda gunakan sudah terdaftar Username * Username yang anda gunakan sudah terdaftar No Telepon * No Telepon yang anda gunakan sudah terdaftar Password *Konfirmasi password *PlatformPilih Platform yang ingin digunakanJFXGoldXGOFXGoldexJAFeTS ColtMetalGo Password tidak sama, silahkan masukkan ulang password  No Telepon anda tidak aktif, pastikan anda memasukkan no telepon akti anda  Akun anda sudah terdaftar Daftar</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;container-register&quot;]/div[@class=&quot;wrap-content&quot;]/div[@class=&quot;content-register&quot;]/form[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div/form</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//form[(text() = 'Nama lengkap *Email * Email yang anda gunakan sudah terdaftar Username * Username yang anda gunakan sudah terdaftar No Telepon * No Telepon yang anda gunakan sudah terdaftar Password *Konfirmasi password *PlatformPilih Platform yang ingin digunakanJFXGoldXGOFXGoldexJAFeTS ColtMetalGo Password tidak sama, silahkan masukkan ulang password  No Telepon anda tidak aktif, pastikan anda memasukkan no telepon akti anda  Akun anda sudah terdaftar Daftar' or . = 'Nama lengkap *Email * Email yang anda gunakan sudah terdaftar Username * Username yang anda gunakan sudah terdaftar No Telepon * No Telepon yang anda gunakan sudah terdaftar Password *Konfirmasi password *PlatformPilih Platform yang ingin digunakanJFXGoldXGOFXGoldexJAFeTS ColtMetalGo Password tidak sama, silahkan masukkan ulang password  No Telepon anda tidak aktif, pastikan anda memasukkan no telepon akti anda  Akun anda sudah terdaftar Daftar')]</value>
+   </webElementXpaths>
+</WebElementEntity>
